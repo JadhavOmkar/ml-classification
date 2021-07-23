@@ -1,0 +1,2 @@
+,model_name,method,missing_value_handling,outlier treatment,label encoding,Feature scaling,Feature_selection_tech,handle class imbalance,accuracy,precision,recall,misclassification,specificity,f1score,remark
+0,base_model,logistic regression,mean replacement,No,Onehot encoding,MinMax scaling,Not used,No,0.8529975044977076,0.7465723131357807,0.46271929824561403,0.14700249550229239,0.7737860244769048,0.5713318666441022,Model is under performing due to class imbalance
